@@ -1,4 +1,4 @@
 <Solution>
-  <Project Path="dominio/dominio.csproj" />
-  <Project Path="eCommerce/eCommerce.csproj" />
+  <Project Path="dominio/dominio.csproj" Id="5864a382-fcd5-4ec1-ab3e-36c185fe7b95" />
+  <Project Path="eCommerce/eCommerce.csproj" Id="dd52bd4e-e8c3-4377-b0bc-228ea7a7d6a8" />
 </Solution>
