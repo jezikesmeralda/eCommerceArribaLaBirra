@@ -3,8 +3,40 @@
   "WorkspaceRootPath": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|c:\\proyectos\\arriba la birra\\arribalabirra\\dominio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\formaentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\formaentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|c:\\proyectos\\arriba la birra\\arribalabirra\\dominio\\estadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\estadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|c:\\proyectos\\arriba la birra\\arribalabirra\\dominio\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|c:\\proyectos\\arriba la birra\\arribalabirra\\dominio\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +67,120 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\FormaPago.cs",
+              "RelativeDocumentMoniker": "dominio\\FormaPago.cs",
+              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\FormaPago.cs",
+              "RelativeToolTip": "dominio\\FormaPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:15:21.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormaEntrega.cs",
+              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\FormaEntrega.cs",
+              "RelativeDocumentMoniker": "dominio\\FormaEntrega.cs",
+              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\FormaEntrega.cs",
+              "RelativeToolTip": "dominio\\FormaEntrega.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:15:48.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Producto.cs",
+              "RelativeDocumentMoniker": "dominio\\Producto.cs",
+              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Producto.cs",
+              "RelativeToolTip": "dominio\\Producto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T21:44:56.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstadoPedido.cs",
+              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\EstadoPedido.cs",
+              "RelativeDocumentMoniker": "dominio\\EstadoPedido.cs",
+              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\EstadoPedido.cs",
+              "RelativeToolTip": "dominio\\EstadoPedido.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:16:16.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DetallePedido.cs",
+              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\DetallePedido.cs",
+              "RelativeDocumentMoniker": "dominio\\DetallePedido.cs",
+              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\DetallePedido.cs",
+              "RelativeToolTip": "dominio\\DetallePedido.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAowBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T21:16:38.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Pedido.cs",
+              "RelativeDocumentMoniker": "dominio\\Pedido.cs",
+              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Pedido.cs",
+              "RelativeToolTip": "dominio\\Pedido.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvxQAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T21:14:39.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Perfil.cs",
+              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Perfil.cs",
+              "RelativeDocumentMoniker": "dominio\\Perfil.cs",
+              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Perfil.cs",
+              "RelativeToolTip": "dominio\\Perfil.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:14:27.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Usuario.cs",
+              "RelativeDocumentMoniker": "dominio\\Usuario.cs",
+              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Usuario.cs",
+              "RelativeToolTip": "dominio\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:13:59.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Direccion.cs",
+              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Direccion.cs",
+              "RelativeDocumentMoniker": "dominio\\Direccion.cs",
+              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Direccion.cs",
+              "RelativeToolTip": "dominio\\Direccion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-03T22:13:34.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Categoria.cs",
               "RelativeDocumentMoniker": "dominio\\Categoria.cs",
@@ -46,20 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Producto.cs",
-              "RelativeDocumentMoniker": "dominio\\Producto.cs",
-              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Producto.cs",
-              "RelativeToolTip": "dominio\\Producto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T21:44:56.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Cliente.cs",
               "RelativeDocumentMoniker": "dominio\\Cliente.cs",
