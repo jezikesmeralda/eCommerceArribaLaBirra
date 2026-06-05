@@ -17,5 +17,9 @@ namespace dominio
         public bool Activo { get; set; }
 
         public Categoria Categoria { get; set; }
+
+        //Es necesario agregar ImagenURL, haciendo clase imagen.
+        //Es necesario agregar marca? siendo marca tambien una clase.
+
     }
 }
