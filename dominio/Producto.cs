@@ -10,7 +10,7 @@ namespace dominio
     public class Producto
     {
         public int Id { get; set; }
-        public int Codigo { get; set; }
+        public string Codigo { get; set; }
         public string Nombre { get; set; }
         public string Descripcion { get; set; }
         public decimal Precio { get; set; }
@@ -18,8 +18,6 @@ namespace dominio
         public bool Activo { get; set; }
         public List<Imagen> Imagenes { get; set;  }
         public Categoria Categoria { get; set; }
-
-        //Es necesario agregar marca? siendo marca tambien una clase.
-
+        public Marca Marca { get; set; }
     }
 }

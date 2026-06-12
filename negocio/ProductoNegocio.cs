@@ -10,19 +10,15 @@ namespace negocio
 {
     public class ProductoNegocio
     {
-        //Agregar Marca como clase. ver si marca y categoria deben tener el id en producto o si se hace una consulta para traer la marca y categoria completa.
-        //agregar marcar a producto y completar los metodos ABM con ambos.
         public List<Producto> Listar()
         {
-            // corregir la consulta SQL para incluir marca
-
             List<Producto> lista = new List<Producto>();
             AccesoDatos datos = new AccesoDatos();
             ImagenNegocio imagenNegocio = new ImagenNegocio();
 
             try
             {
-                datos.SetearConsulta("SELECT P.Id, P.Codigo, P.Nombre, P.Precio, P.IdCategoria, C.Nombre AS NombreCategoria FROM Productos P LEFT JOIN Categorias C ON P.IdCategoria = C.Id");
+                datos.SetearConsulta("SELECT P.Id, P.Codigo, P.Nombre, P.Descripcion, P.Precio, P.Stock, P.IdMarca, M.Nombre AS NombreMarca, P.IdCategoria, C.Nombre AS NombreCategoria FROM PRODUCTOS P LEFT JOIN MARCAS M ON P.IdMarca = M.Id LEFT JOIN CATEGORIAS C ON P.IdCategoria = C.Id WHERE P.Activo = 1");
                 datos.EjecutarLectura();
                 while (datos.Lector.Read())
                 {
@@ -55,6 +51,13 @@ namespace negocio
                         aux.Categoria.Nombre = (string)datos.Lector["NombreCategoria"];
                     }
 
+                    if (!(datos.Lector["IdMarca"] is DBNull))
+                    {
+                        aux.Marca = new Marca();
+                        aux.Marca.Id = (int)datos.Lector["IdMarca"];
+                        aux.Marca.Nombre = (string)datos.Lector["NombreMarca"];
+                    }
+
                     lista.Add(aux);
                 }
                 return lista;
@@ -75,13 +78,14 @@ namespace negocio
 
             try
             {
-                datos.SetearConsulta("INSERT INTO PRODUCTOS(Codigo, Nombre, Descripcion, Precio, Stock, Categoria) VALUES (@Codigo, @Nombre, @Descripcio, @Precio, @Stock, @Categoria)");
+                datos.SetearConsulta("INSERT INTO PRODUCTOS(Codigo, Nombre, Descripcion, Precio, Stock, Categoria, Marca) VALUES (@Codigo, @Nombre, @Descripcio, @Precio, @Stock, @Categoria, @Marca)");
                 datos.SetearParametro("@Codigo", nuevo.Codigo);
                 datos.SetearParametro("@Nombre", nuevo.Nombre);
                 datos.SetearParametro("@Descripcion", nuevo.Descripcion);
                 datos.SetearParametro("@Precio)", nuevo.Precio);
                 datos.SetearParametro("@Stock)", nuevo.Stock);
                 datos.SetearParametro("@Categoria)", nuevo.Categoria);
+                datos.SetearParametro("@Marca", nuevo.Marca);
 
                 datos.EjecutarAccion();
             }
@@ -101,13 +105,14 @@ namespace negocio
 
             try
             {
-                datos.SetearConsulta("UPDATE PRODUCTO SET Codigo = @Codigo, Nombre = @Nombre, Descripcion = @Descripcion, Precio = @Precio, Stock = @Stock, Categoria = @Categoria WHERE Id = @Id");
+                datos.SetearConsulta("UPDATE PRODUCTO SET Codigo = @Codigo, Nombre = @Nombre, Descripcion = @Descripcion, Precio = @Precio, Stock = @Stock, Categoria = @Categoria, Marca = @Marca WHERE Id = @Id");
                 datos.SetearParametro("@Codigo", producto.Codigo);
                 datos.SetearParametro("@Nombre", producto.Nombre);
                 datos.SetearParametro("@Descripcion", producto.Descripcion);
                 datos.SetearParametro("@Precio", producto.Precio);
                 datos.SetearParametro("@Stock", producto.Stock);
                 datos.SetearParametro("@Categoria", producto.Categoria);
+                datos.SetearParametro("@Marca", producto.Marca);
 
                 datos.EjecutarAccion();
             }
@@ -159,7 +164,7 @@ namespace negocio
                 datos.CerrarConexion();
             }
         }
-
+        // Cambiar nombre de buscarArticulo a BuscarProducto.
         public List<Producto> BuscarArticulo(string campo, string criterio, string filtro)
         {
             List<Producto> lista = new List<Producto>();
@@ -168,8 +173,8 @@ namespace negocio
             try
             {
                 string consulta = @"SELECT P.Id, P.Codigo, P.Nombre, P.Descripcion, P.Precio,
-                            M.Id AS IdMarca, M.Descripcion AS Marca,
-                            C.Id AS IdCategoria, C.Descripcion AS Categoria
+                            M.Id AS IdMarca AS Marca,
+                            C.Id AS IdCategoria AS Categoria
                             FROM PRODUCTO A
                             LEFT JOIN MARCAS M ON M.Id = A.IdMarca
                             LEFT JOIN CATEGORIAS C ON C.Id = A.IdCategoria WHERE 1=1  ";
@@ -210,7 +215,6 @@ namespace negocio
                     {
                         aux.Marca = new Marca();
                         aux.Marca.Id = (int)datos.Lector["IdMarca"];
-                        aux.Marca.Descripcion = (string)datos.Lector["Marca"];
 
                     }
 
