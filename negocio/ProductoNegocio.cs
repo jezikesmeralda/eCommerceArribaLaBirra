@@ -10,6 +10,7 @@ namespace negocio
 {
     public class ProductoNegocio
     {
+        // Ver si se puede implementar un método para listar productos con imágenes, marcas y categorías en una sola consulta SQL, en lugar de hacer múltiples consultas.
         public List<Producto> Listar()
         {
             List<Producto> lista = new List<Producto>();
@@ -72,7 +73,7 @@ namespace negocio
             }
         }
 
-        public void Agregar(Producto nuevo)
+        public void AgregarProducto(Producto nuevo)
         {
             AccesoDatos datos = new AccesoDatos();
 
@@ -99,7 +100,7 @@ namespace negocio
             }
         }
 
-        public void Modificar(Producto producto)
+        public void ModificarProducto(Producto producto)
         {
             AccesoDatos datos = new AccesoDatos();
 
@@ -164,8 +165,8 @@ namespace negocio
                 datos.CerrarConexion();
             }
         }
-        // Cambiar nombre de buscarArticulo a BuscarProducto.
-        public List<Producto> BuscarArticulo(string campo, string criterio, string filtro)
+
+        public List<Producto> BuscarProducto(string campo, string criterio, string filtro)
         {
             List<Producto> lista = new List<Producto>();
             AccesoDatos datos = new AccesoDatos();

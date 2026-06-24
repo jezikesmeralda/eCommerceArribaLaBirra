@@ -1,0 +1,47 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="eCommerce.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+
+    <title>Arriba la Birra</title>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" />
+    <link href="site.css" rel="stylesheet" type="text/css" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <header>
+            <div class="search-section">
+                <asp:TextBox ID="txtBuscar" runat="server" placeholder="Buscar..."></asp:TextBox>
+                <asp:Button ID="btnBuscar" runat="server" Text="🔍" OnClick="btnBuscar_Click"  />
+            </div>
+            
+            <div class="logo-section">
+                <h1 class="logo-titulo">ARRIBA LA BIRRA</h1>
+            </div>
+
+            <div class="cart-section">
+                <a href="Carrito.aspx">
+                    <i class="fas fa-shopping-cart"></i> <span>(0)</span>
+                </a>
+            </div>
+        </header>
+        <nav>
+            <a href="Home.aspx">Home</a>
+            <a href="Productos.aspx">Productos</a>
+            <a href="Contacto.aspx">Contacto</a>
+        </nav>
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>
