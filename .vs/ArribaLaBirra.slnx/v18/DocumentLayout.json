@@ -1,50 +1,62 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\",
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD52BD4E-E8C3-4377-B0BC-228EA7A7D6A8}|eCommerce\\eCommerce.csproj|c:\\users\\usuario\\desktop\\arribalabirraecommerce-repo\\ecommerce\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DD52BD4E-E8C3-4377-B0BC-228EA7A7D6A8}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\formaentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\formaentrega.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57DEE1D9-4F75-47A8-BCD0-000312DB0FD2}|negocio\\negocio.csproj|C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEE1D9-4F75-47A8-BCD0-000312DB0FD2}|negocio\\negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD52BD4E-E8C3-4377-B0BC-228EA7A7D6A8}|eCommerce\\eCommerce.csproj|c:\\users\\usuario\\desktop\\arribalabirraecommerce-repo\\ecommerce\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD52BD4E-E8C3-4377-B0BC-228EA7A7D6A8}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|c:\\proyectos\\arriba la birra\\arribalabirra\\dominio\\estadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\estadopedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{57DEE1D9-4F75-47A8-BCD0-000312DB0FD2}|negocio\\negocio.csproj|C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\negocio\\productonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEE1D9-4F75-47A8-BCD0-000312DB0FD2}|negocio\\negocio.csproj|solutionrelative:negocio\\productonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|c:\\proyectos\\arriba la birra\\arribalabirra\\dominio\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\detallepedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD52BD4E-E8C3-4377-B0BC-228EA7A7D6A8}|eCommerce\\eCommerce.csproj|c:\\users\\usuario\\desktop\\arribalabirraecommerce-repo\\ecommerce\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{DD52BD4E-E8C3-4377-B0BC-228EA7A7D6A8}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\masterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|c:\\proyectos\\arriba la birra\\arribalabirra\\dominio\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD52BD4E-E8C3-4377-B0BC-228EA7A7D6A8}|eCommerce\\eCommerce.csproj|c:\\users\\usuario\\desktop\\arribalabirraecommerce-repo\\ecommerce\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD52BD4E-E8C3-4377-B0BC-228EA7A7D6A8}|eCommerce\\eCommerce.csproj|solutionrelative:ecommerce\\home.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|c:\\users\\usuario\\desktop\\arribalabirraecommerce-repo\\dominio\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\perfil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\marca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DEE1D9-4F75-47A8-BCD0-000312DB0FD2}|negocio\\negocio.csproj|C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\negocio\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEE1D9-4F75-47A8-BCD0-000312DB0FD2}|negocio\\negocio.csproj|solutionrelative:negocio\\imagennegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57DEE1D9-4F75-47A8-BCD0-000312DB0FD2}|negocio\\negocio.csproj|C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57DEE1D9-4F75-47A8-BCD0-000312DB0FD2}|negocio\\negocio.csproj|solutionrelative:negocio\\categorianegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5864A382-FCD5-4EC1-AB3E-36C185FE7B95}|dominio\\dominio.csproj|solutionrelative:dominio\\formapago.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,153 +66,182 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FormaPago.cs",
-              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\FormaPago.cs",
-              "RelativeDocumentMoniker": "dominio\\FormaPago.cs",
-              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\FormaPago.cs",
-              "RelativeToolTip": "dominio\\FormaPago.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Title": "Home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\eCommerce\\Home.aspx.cs",
+              "RelativeDocumentMoniker": "eCommerce\\Home.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\eCommerce\\Home.aspx.cs",
+              "RelativeToolTip": "eCommerce\\Home.aspx.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T22:15:21.731Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FormaEntrega.cs",
-              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\FormaEntrega.cs",
-              "RelativeDocumentMoniker": "dominio\\FormaEntrega.cs",
-              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\FormaEntrega.cs",
-              "RelativeToolTip": "dominio\\FormaEntrega.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T22:15:48.829Z",
+              "WhenOpened": "2026-07-30T17:17:27.014Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Producto.cs",
-              "RelativeDocumentMoniker": "dominio\\Producto.cs",
-              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Producto.cs",
-              "RelativeToolTip": "dominio\\Producto.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAkwAwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T21:44:56.336Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EstadoPedido.cs",
-              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\EstadoPedido.cs",
-              "RelativeDocumentMoniker": "dominio\\EstadoPedido.cs",
-              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\EstadoPedido.cs",
-              "RelativeToolTip": "dominio\\EstadoPedido.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T22:16:16.606Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DetallePedido.cs",
-              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\DetallePedido.cs",
-              "RelativeDocumentMoniker": "dominio\\DetallePedido.cs",
-              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\DetallePedido.cs",
-              "RelativeToolTip": "dominio\\DetallePedido.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowBUAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T21:16:38.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Pedido.cs",
-              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Pedido.cs",
-              "RelativeDocumentMoniker": "dominio\\Pedido.cs",
-              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Pedido.cs",
-              "RelativeToolTip": "dominio\\Pedido.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvxQAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-04T21:14:39.712Z",
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\eCommerce\\Home.aspx",
+              "RelativeDocumentMoniker": "eCommerce\\Home.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\eCommerce\\Home.aspx",
+              "RelativeToolTip": "eCommerce\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-07-30T16:32:34.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Perfil.cs",
-              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Perfil.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\Perfil.cs",
               "RelativeDocumentMoniker": "dominio\\Perfil.cs",
-              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Perfil.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\Perfil.cs",
               "RelativeToolTip": "dominio\\Perfil.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T22:14:27.062Z"
+              "WhenOpened": "2026-07-27T20:34:14.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\Usuario.cs",
               "RelativeDocumentMoniker": "dominio\\Usuario.cs",
-              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\Usuario.cs",
               "RelativeToolTip": "dominio\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T22:13:59.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Direccion.cs",
-              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Direccion.cs",
-              "RelativeDocumentMoniker": "dominio\\Direccion.cs",
-              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Direccion.cs",
-              "RelativeToolTip": "dominio\\Direccion.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAkwBkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T22:13:34.663Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Categoria.cs",
-              "RelativeDocumentMoniker": "dominio\\Categoria.cs",
-              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Categoria.cs",
-              "RelativeToolTip": "dominio\\Categoria.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T21:45:46.95Z"
+              "WhenOpened": "2026-07-27T20:32:21.383Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Cliente.cs",
-              "RelativeDocumentMoniker": "dominio\\Cliente.cs",
-              "ToolTip": "C:\\proyectos\\Arriba la birra\\ArribaLaBirra\\dominio\\Cliente.cs",
-              "RelativeToolTip": "dominio\\Cliente.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBUAAAAFAAAAAAAAAA==",
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\Categoria.cs",
+              "RelativeDocumentMoniker": "dominio\\Categoria.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\Categoria.cs",
+              "RelativeToolTip": "dominio\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-03T21:44:45.792Z"
+              "WhenOpened": "2026-07-21T17:31:07.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Marca.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\Marca.cs",
+              "RelativeDocumentMoniker": "dominio\\Marca.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\Marca.cs",
+              "RelativeToolTip": "dominio\\Marca.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T16:22:35.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\negocio\\ProductoNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\ProductoNegocio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\negocio\\ProductoNegocio.cs",
+              "RelativeToolTip": "negocio\\ProductoNegocio.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T15:28:42.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\negocio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "negocio\\AccesoDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\negocio\\AccesoDatos.cs",
+              "RelativeToolTip": "negocio\\AccesoDatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T12:47:19.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Home.aspx.designer.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\eCommerce\\Home.aspx.designer.cs",
+              "RelativeDocumentMoniker": "eCommerce\\Home.aspx.designer.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\eCommerce\\Home.aspx.designer.cs",
+              "RelativeToolTip": "eCommerce\\Home.aspx.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T17:17:29.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\Producto.cs",
+              "RelativeDocumentMoniker": "dominio\\Producto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\Producto.cs",
+              "RelativeToolTip": "dominio\\Producto.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T12:47:09.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\eCommerce\\MasterPage.Master",
+              "RelativeDocumentMoniker": "eCommerce\\MasterPage.Master",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\eCommerce\\MasterPage.Master",
+              "RelativeToolTip": "eCommerce\\MasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-07-30T17:22:49.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ImagenNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\negocio\\ImagenNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\ImagenNegocio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\negocio\\ImagenNegocio.cs",
+              "RelativeToolTip": "negocio\\ImagenNegocio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T13:16:54.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoriaNegocio.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\negocio\\CategoriaNegocio.cs",
+              "RelativeDocumentMoniker": "negocio\\CategoriaNegocio.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\negocio\\CategoriaNegocio.cs",
+              "RelativeToolTip": "negocio\\CategoriaNegocio.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T12:54:19.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormaPago.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\FormaPago.cs",
+              "RelativeDocumentMoniker": "dominio\\FormaPago.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\ArribaLaBirraEcommerce-repo\\dominio\\FormaPago.cs",
+              "RelativeToolTip": "dominio\\FormaPago.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-21T12:35:44.707Z"
             }
           ]
         }

@@ -12,7 +12,6 @@ namespace negocio
         public Categoria BuscarPorId(int Id)
         {
             AccesoDatos datos = new AccesoDatos();
-            Categoria cat = new Categoria();
 
             try
             {

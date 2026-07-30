@@ -38,7 +38,7 @@
             <a href="Contacto.aspx">Contacto</a>
         </nav>
         <div>
-            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
 
             </asp:ContentPlaceHolder>
         </div>
